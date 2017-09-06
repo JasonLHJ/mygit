@@ -1,3 +1,5 @@
 select * from TS_FMWK_CODE_INFO where CODE in ('17002','20003','20004','33002')
 
 select * from TS_FMWK_CODE_INFO where CODE = '35009'
+
+select * from TS_FMWK_CODE_INFO where CODE = '35009'
